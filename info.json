@@ -1,0 +1,131 @@
+[
+    
+    { 
+        "name": "Baguette Emerald Stud Earrings", 
+        "price": 325, 
+        "type": ["Gold"], 
+        "gemstone": "Emerald", 
+        "rating": 4.8,
+        "image": "images/emeraldStud.jpeg"
+    },
+
+    { 
+        "name": "Mixed Medium Tube Hoops", 
+        "price": 78, 
+        "type": ["Gold", "Silver"], 
+        "gemstone": "None", 
+        "rating": 4.4,
+        "image": "images/mixedMed.jpg"
+    },
+
+    { 
+        "name": "Opal U Hoops", 
+        "price": 250, 
+        "type": ["Gold"], 
+        "gemstone": "Opal", 
+        "rating": 3.6,
+        "image": "images/opalUhoop.jpeg"
+    },
+
+    { 
+        "name": "Large Pearl Huggies", 
+        "price": 225, 
+        "type": ["Gold"], 
+        "gemstone": "Pearl", 
+        "rating": 2,
+        "image": "images/largePearlHugg.jpeg"
+    },
+
+
+    { 
+        "name": "Dual Pearl Hoops", 
+        "price": 98, 
+        "type": ["Silver"], 
+        "gemstone": "Pearl", 
+        "rating": 4.9,
+        "image": "images/dualPearlHoops.jpeg"
+    },
+
+    { 
+        "name": "Pearl Sculptural Drop Earrings", 
+        "price": 78, 
+        "type": ["Silver"], 
+        "gemstone": "Pearl", 
+        "rating": 3,
+        "image": "images/pearlDrop.jpeg"
+    },
+
+    { 
+        "name": "Block Bar Studs", 
+        "price": 38, 
+        "type": ["Silver"], 
+        "gemstone": "None", 
+        "rating": 4.8,
+        "image": "images/blockBar.jpeg"
+    },
+
+    { 
+        "name": "Block Large Hoops", 
+        "price": 78, 
+        "type": ["Silver"], 
+        "gemstone": "None", 
+        "rating": 4.7,
+        "image": "images/blockLargeHoop.jpeg"
+    },
+
+    { 
+        "name": "Chunky Huggie Hoops", 
+        "price": 68, 
+        "type": ["Silver"], 
+        "gemstone": "None", 
+        "rating": 1,
+        "image": "images/1.jpeg"
+    },
+
+    { 
+        "name": "Silver Tube Large Hoops", 
+        "price": 68, 
+        "type": ["Silver"], 
+        "gemstone": "None", 
+        "rating": 2,
+        "image": "images/2.jpeg"
+    },
+
+    { 
+        "name": "Wave Hoops", 
+        "price": 78, 
+        "type": ["Silver"], 
+        "gemstone": "None", 
+        "rating": 4.9,
+        "image": "images/3.jpeg"
+    },
+
+    { 
+        "name": "Star Stud", 
+        "price": 78, 
+        "type": ["Gold"], 
+        "gemstone": "None", 
+        "rating": 4.7,
+        "image": "images/4.jpeg"
+    },
+
+    { 
+        "name": "Tube Medium Hoops", 
+        "price": 58, 
+        "type": ["Gold"], 
+        "gemstone": "None", 
+        "rating": 0,
+        "image": "images/5.jpeg"
+    },
+
+    { 
+        "name": "Gemstone Ear Jacket Studs", 
+        "price": 148, 
+        "type": ["Gold"], 
+        "gemstone": "White Topaz", 
+        "rating": 4.8,
+        "image": "images/6.jpeg"
+    }
+
+
+]
